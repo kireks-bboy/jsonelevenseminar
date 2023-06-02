@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ELLERY X M'O CAPSULE",
+        "image": "img/man1.jpg",
+        "desc": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52
+       
+    },
+    {
+        "name": "GEEK BRACE MERCH",
+        "image": "img/man2.jpg",
+        "desc": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 83
+    },
+    {
+        "name": "ELLERY LAL GEEK",
+        "image": "img/man3.jpg",
+        "desc": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 75
+    }
+]
+

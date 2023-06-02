@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+.product__box {
+  padding-top: 100px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+
+
+
+
+.product__img {
+  width: 360px;
+}
+
+.product__desc {
+
+max-width: 360px;
+background: #F8F8F8;
+}
+
+.product__wrap{
+  padding: 24px 16px;
+}
+
+.product__name {
+  margin-bottom: 16px;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  color: #000000;
+}
+
+.product__description{
+  font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+margin-bottom: 16px;
+color: #5D5D5D;
+}
+
+.product__price{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #F16D7F;
+
+}
+
+
+
+
+
+.product__content {
+
+ max-width: 360px;
+
+}
